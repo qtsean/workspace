@@ -1,0 +1,17 @@
+package fudianshu;
+
+import java.util.Scanner;
+
+public class shengao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double huashi;
+		int sheshi;
+		Scanner in=new Scanner(System.in);
+		huashi=in.nextInt();
+		sheshi=(int)((huashi-32)/9*5);
+		System.out.println(sheshi);
+	}
+
+}
