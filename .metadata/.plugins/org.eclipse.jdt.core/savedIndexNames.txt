@@ -1,6 +1,7 @@
 INDEX VERSION 1.129+C:\Users\SQT\workspace\.metadata\.plugins\org.eclipse.jdt.core
 2378760502.index
 3057372185.index
+<<<<<<< HEAD
 10706997.index
 2134782934.index
 3000443040.index
@@ -10,6 +11,34 @@ INDEX VERSION 1.129+C:\Users\SQT\workspace\.metadata\.plugins\org.eclipse.jdt.co
 1554799930.index
 1379232745.index
 3726540683.index
+=======
+3792966807.index
+3537799689.index
+4217414876.index
+1392172246.index
+909861168.index
+10706997.index
+1111690661.index
+2134782934.index
+3000443040.index
+1429607003.index
+220789872.index
+921102955.index
+1527409904.index
+1881185154.index
+2250812846.index
+4157321706.index
+1554799930.index
+4122227026.index
+69564303.index
+245730303.index
+1631616599.index
+1379232745.index
+2427601795.index
+3193238650.index
+3726540683.index
+3322898943.index
+>>>>>>> origin/master
 3778077582.index
 4219279280.index
 1500337642.index

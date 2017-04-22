@@ -928,6 +928,7 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+<<<<<<< HEAD
 !SESSION 2017-04-22 20:56:35.314 -----------------------------------------------
 eclipse.buildId=4.6.2.M20161124-1400
 java.version=1.8.0_112
@@ -976,3 +977,5 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:244)
 	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
 	... 16 more
+=======
+>>>>>>> origin/master
